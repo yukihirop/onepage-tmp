@@ -41,11 +41,11 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 group :development, :test do
-	gem 'pry-byebug'
-	gem 'pry-rails'
-	gem 'better_errors', '~> 2.1.0'
-	gem 'binding_of_caller', '~> 0.7.2'
-	gem 'bullet'
+  gem 'pry-byebug'
+  gem 'pry-rails'
+  gem 'better_errors', '~> 2.1.0'
+  gem 'binding_of_caller', '~> 0.7.2'
+  gem 'bullet'
 end
 
 group :development do
