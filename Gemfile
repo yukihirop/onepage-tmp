@@ -50,4 +50,6 @@ end
 
 group :development do
   gem 'annotate'
+  gem 'rubocop'
+  gem 'onkcop', require: false
 end
