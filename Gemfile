@@ -47,3 +47,7 @@ group :development, :test do
 	gem 'binding_of_caller', '~> 0.7.2'
 	gem 'bullet'
 end
+
+group :development do
+  gem 'annotate'
+end
